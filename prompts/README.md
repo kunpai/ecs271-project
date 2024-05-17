@@ -63,3 +63,36 @@ We put in the question as the prompt and then give the equation to solve.
 - Incorrect: 23
 - Total: 165
 - Accuracy: 0.8606060606060606
+
+## Scratch Prompting (1 Shot)
+
+We put in a sample question and a `<scratch>` `<\scratch>` encasing how to do that operation.
+Then, we ask the model to generate its own `<scratch>` `<\scratch>`, and use that to compute the answer.
+
+### Addition
+
+- Correct: 124
+- Incorrect: 71
+- Total: 195
+- Accuracy: 0.6358974358974359
+
+### Subtraction
+
+- Correct: 450
+- Incorrect: 58
+- Total: 508
+- Accuracy: 0.8858267716535433
+
+### Multiplication
+
+- Correct: 75
+- Incorrect: 33
+- Total: 108
+- Accuracy: 0.6944444444444444
+
+### Division
+
+- Correct: 109
+- Incorrect: 56
+- Total: 165
+- Accuracy: 0.6606060606060606

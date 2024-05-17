@@ -1,0 +1,509 @@
+question,correct,model
+There are 8 different books and 5 different movies in the ' crazy silly school ' series. If you read 19 of the movies and watched 16 of the books,3.0,3
+Mary is baking a cake. The recipe calls for 12 cups of flour and 5 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour,10.0,10
+Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection.,4.0,4
+3 birds and 4 storks were sitting on the fence. 2 more birds came to join them.,1.0,1
+"The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 9 inches. The mouse jumped 3 inches lesser than the frog who jumped 33 inches farther than the grasshopper.",39.0,39
+Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary.,32.0,32
+Jerry had 7 action figures on a shelf in his room. Later he added some more action figures to the shelf and removed 10 of the old ones. If there are 8 action figures on his shelf now,11.0,11
+Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left.,266.0,266
+"At the zoo, a cage had 93 snakes and 97 alligators. If 40 alligators were hiding",57.0,57
+You have read 8 books from the ' crazy silly school ' series. If there are a total of 14 different books in the ' crazy silly school ' series,6.0,6
+Winter is almost here and most animals are migrating to warmer countries. There were 89 bird families living near the mountain. If 60 bird families flew away for winter,31.0,10 + 10 = 20
+There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase.,10.0,10
+"After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. If there were 600 visitors the previous day",61.0,61
+Mary is baking a cake. The recipe calls for 11 cups of flour and 7 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour than sugar,2.0,10 + 10 = 20
+Baker made 149 cakes and 91 pastries. If he sold 10 cakes and 90 pastries,139.0,139
+Dave had 24 files and 13 apps on his phone. After deleting some apps and files he had 17 apps and 21 files left.,3.0,3
+Because of the decision Sofia asked 310 students to suggest specific types of food. 185 students suggested adding mashed potatoes while others suggested adding bacon to the menu.,125.0,125
+Rachel had to complete 2 pages of reading homework and 4 pages of math homework.,2.0,2
+"Julia played tag with 8 kids on monday, 11 kids on tuesday and 9 kids on wednesday.",2.0,2
+36 children were riding on the bus. At the bus stop 68 children got off the bus while some more got on the bus. Then there were 12 children altogether on the bus.,24.0,24
+Tiffany was collecting cans for recycling. On monday she had 4 bags of cans. The next day she found some more bags worth of cans. If she had a total of 6 bags altogether,2.0,2
+In a school there are 632 girls and 410 boys. 465 more girls joined the school.,687.0,687
+Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower.,30.0,30
+2 birds and 6 storks were sitting on the fence. 3 more birds came to join them.,1.0,4
+Paco had 12 cookies. He ate 16 cookies and gave 21 of them to his friend.,5.0,5
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 317 visitors came to the Buckingham palace that day. If there were 295 visitors the previous day",22.0,22
+Josh had 3 marbles in his collection. He found 6 marbles while he lost 5 marbles.,1.0,1
+Because of the decision Sofia asked the students to suggest specific types of food. If 408 students suggested adding mashed potatoes while 42 suggested adding bacon to the menu,366.0,366
+Paco had 40 cookies. He ate 5 cookies and gave 13 of them to his friend.,22.0,10 + 10 = 20
+Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend.,1.0,1
+Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days.,1.0,1
+Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3.,1.0,1
+Ed had 29 more marbles than Doug. Ed lost 17 of his marbles at the playground.,12.0,12
+There are 20 different books in the ' crazy silly school ' series. If you are yet to read 5 of the books,15.0,15
+Josh lost 11 marbles. If he had 19 marbles in his collection earlier,8.0,8
+Allan brought 6 balloons and Jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park.,1.0,1
+A grocery store had 22 bottles of regular soda and 61 bottles of diet soda.,39.0,39
+During summer break 800059 kids from Lawrence county go to camp and the rest stay home. Lawrence county has 828521 kids in all.,28462.0,28462
+Allan brought 2 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park.,1.0,3
+"A chef had 58 apples. After making some pies, he had used 35.",23.0,23
+There were 16 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 7 orchids and 13 roses in the vase.,4.0,4
+"Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening.",1.0,1
+A farmer had 160 tomatoes in his garden. If he picked 56 of them yesterday and 41 today.,104.0,104
+15 campers went rowing in the morning. Some more campers went rowing in the afternoon. If a total of 32 campers went rowing that day,17.0,17
+Because of the decision Sofia asked the students to suggest specific types of food. If 479 students suggested adding mashed potatoes while 489 suggested adding bacon to the menu,10.0,10
+Ed had 5 more marbles than Doug. Doug lost 3 of his marbles at the playground. If Ed had 27 marbles,22.0,22
+Rachel had to complete 7 pages of math homework. If she had to complete 4 more pages of math homework than reading homework,3.0,3
+Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 19 chocolate chip cookies yesterday and 231 raisin cookies and 237 chocolate chip cookies this morning.,25.0,25
+Tiffany was collecting cans for recycling. On monday she had some bags of cans. The next day she found 4 more bags worth of cans. If she had a total of 8 bags altogether,4.0,4
+Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection.,33.0,33
+Mary is baking a cake. The recipe calls for 12 cups of sugar and 14 cups of flour. She already put in 10 cups of sugar.,12.0,10 + 10 = 20
+Kelly has 22 nintendo games.,118.0,118
+A farmer had 171 tomatoes in his garden. If he picked 134 of them yesterday and 30 today.,7.0,10 + 10 = 20
+Mary is baking a cake. The recipe calls for 6 cups of sugar and 14 cups of flour. She already put in 7 cups of flour and 60 cups of sugar.,7.0,7
+There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase.,9.0,9
+After Jessie started to go jogging everyday she lost 35 kilograms. She weighed 69 kilograms before beginning jogging.,34.0,34
+22 children were riding on the bus. At the bus stop 40 children got on the bus while some got off the bus. Then there were 2 children altogether on the bus.,60.0,58
+There are 10 different books and 11 different movies in the ' crazy silly school ' series. If you read 13 of the books and watched 12 of the movies,1.0,1
+A farmer had 175 tomatoes and 77 potatoes in his garden. If he picked 172 potatoes,80.0,80
+Last week Fred had 111 dollars and Jason had 40 dollars. Fred washed cars over the weekend and now has 115 dollars. Jason delivered newspapers and now has 44 dollars.,4.0,4
+Jessica cut some roses from her flower garden to put in her vase. There are now 19 roses in the vase. If there were 3 roses in the vase initially,16.0,16
+23 children were riding on the bus. At the bus stop 24 children got on the bus while some got off the bus. Then there were 8 children altogether on the bus.,15.0,15
+Because of the decision Sofia asked the students to suggest specific types of food. If 257 students suggested adding mashed potatoes 120 suggested adding bacon to the menu and 97 suggested adding tomatoes,137.0,137
+After resting they decided to go for a swim. If the depth of the water is 10 times Dean's height and he stands at 9 feet,81.0,81
+Next on his checklist is wax to stick the feathers together. He needs 159 g of wax more. If the feathers require a total of 628 g of wax,469.0,469
+There are a total of 16 peaches in a basket. If there are 13 red peaches and some more green peaches in the basket.,3.0,3
+Marco and his dad went strawberry picking. Together their strawberries weighed 4 pounds. Marco's strawberries weighed 19 pounds.,34.0,10 + 10 = 20
+Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday.,2.0,2
+"A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda.",98.0,98
+"The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 14 inches. The mouse jumped 16 inches lesser than the frog who jumped 37 inches farther than the grasshopper.",21.0,21
+Paige raised 7 goldfish and 12 catfish in the pond but stray cats loved eating them. Now she has 15 left.,4.0,4
+Paco had 40 sweet cookies and 25 salty cookies. He ate 28 salty cookies and 15 sweet cookies.,13.0,13
+Steven has 14 peaches. Jake has 6 fewer peaches than Steven and 3 more peaches than Jill.,5.0,10 + 10 = 20
+Paul had 115 books. He sold 78 books in a garage sale.,37.0,37
+Danny collects bottle caps. He found 63 bottle caps at the park while he threw away 51 old ones. Now he has 33 bottle caps in his collection.,21.0,84
+A grocery store had 67 bottles of regular soda and 9 bottles of diet soda.,58.0,58
+A grocery store had a total of 17 bottles of which 9 were bottles of regular soda and the rest were bottles of diet soda. They also had 29 apple.,8.0,8
+Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches.,5.0,5
+Josh had 20 marbles in his collection. He gave 2 marbles to Jack.,18.0,18
+Steven has 12 peaches. Jake has 4 fewer peaches than Steven who has 67 more peaches than Jill.,8.0,8
+Jake has 5 fewer peaches than Steven. Steven has 18 more peaches than Jill. If Jill has 87 peaches,13.0,13
+"A grocery store had 54 bottles of diet soda, 83 bottles of regular soda and 12 apples.",29.0,29
+Because of the decision Sofia asked the students to suggest specific types of food. If 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoes,61.0,61
+Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left.,1.0,5
+Kelly has 106 nintendo games.,42.0,42
+Last week Fred had 114 dollars and Jason had 22 dollars. They washed cars over the weekend and now Fred has 21 dollars and Jason has 78 dollars.,56.0,56
+Jack received 6 emails in the morning and 2 emails in the afternoon.,4.0,4
+Baker made 43 cakes and 114 pastries. If he sold 154 pastries and 78 cakes,76.0,76
+They decided to hold the party in their backyard. They have 4 sets of tables and each set has 3 chairs. If a total of 14 people will attend the party,2.0,2
+Last week Fred had 19 dollars and Jason had 16 dollars. They washed cars over the weekend and now Fred has 40 dollars and Jason has 69 dollars.,21.0,21
+Paco had 25 cookies. He ate 5 of them. Then he bought 3 more cookies,2.0,2
+Jake has 8 fewer peaches and 10 more apples than Steven. Steven has 11 apples and 18 peaches.,7.0,7
+A grocery store had a total of 30 bottles of which 28 were bottles of regular soda and the rest were bottles of diet soda.,2.0,2
+Winter is almost here and most animals are migrating to warmer countries. 86 bird families flew away for the winter from near a mountain. If there were 45 bird families living near the mountain initially,127.0,10 + 10 = 20
+Allan brought 2 balloons to the park and then bought 3 more balloons there. If Jake brought 6 balloons to the park,1.0,1
+"Every day Ryan spends 2 hours on learning english, 5 hours on learning chinese and 4 hours on learning spanish.",1.0,1
+2 birds were sitting on the fence. 5 more birds and 4 more storks came to join them.,3.0,3
+Paco had 6 cookies. He gave 30 cookies to his friend and ate 23 cookies.,7.0,7
+Baker made 170 cakes. He sold 78 of them and bought 31 new cakes.,47.0,47
+There were 12 roses and 2 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 10 roses and 21 orchids in the vase.,19.0,19
+Mary is baking a cake. The recipe calls for 5 cups of flour and 14 cups of sugar. She already put in 10 cups of flour and 2 cups of sugar.,12.0,12
+Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes.,184.0,184
+Mary is baking a cake. The recipe calls for 12 cups of flour 5 cups of sugar and 49 cups of salt. She already put in 11 cups of flour.,1.0,1
+There are 62 different movies and 19 different books in the ' crazy silly school ' series. If you read 4 of the books and watched 34 of the movies,15.0,15
+41 children were riding on the bus. At the bus stop some children got off the bus. Then there were 18 children left on the bus.,23.0,23
+Danny collects bottle caps and wrappers. He found 30 bottle caps and 14 wrappers at the park. Now he has 7 bottle caps and 86 wrappers in his collection.,16.0,16
+Edward spent $ 16 to buy books and $ 8 to buy pens. Now he has $ 19.,8.0,8
+Dan has $ 4. He had $ 3 left with him after he bought a candy bar.,1.0,1
+Paul got a box of 253 crayons for his birthday. By the end of the school year he had either lost or given away 70 of them.,183.0,183
+Zachary did 51 push-ups in gym class today. David did 22 more push-ups than Zachary. John did 4 push-ups less than David.,69.0,69
+Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 519 chocolate chip cookies and 300 raisin cookies yesterday. And she baked 280 raisin cookies and 359 chocolate chip cookies this morning.,20.0,20
+"A grocery store had 81 bottles of regular soda, 60 bottles of diet soda and 60 bottles of lite soda.",21.0,21
+Edward had $ 13. He spent some money. Now he has $ 3.,10.0,10
+Ed had 19 more marbles than Doug. Ed lost some of his marbles at the playground. Now Ed has 8 more marbles than doug.,11.0,11
+"A grocery store had 72 bottles of regular soda, 32 bottles of diet soda and 78 apples.",26.0,26
+Because of the decision Sofia asked the students to suggest specific types of food. If 144 students suggested adding mashed potatoes 467 suggested adding bacon to the menu and 79 suggested adding tomatoes,65.0,65
+A waiter had 14 customers. 5 customers left.,9.0,9
+Mary is baking a cake. The recipe calls for 11 cups of sugar and 9 cups of flour. She already put in 12 cups of flour and 10 cups of sugar.,1.0,1
+The Razorback t-shirt shop makes $ 106 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 242 t-shirts. If they sold 115 t-shirts during the Arkansas game,127.0,127
+Randy has 90 blocks. He uses 89 blocks to build a house and 63 blocks to build a tower.,26.0,26
+Allan brought 2 balloons and Jake brought 3 balloons to the park.,1.0,1
+"Every day Ryan spends 7 hours on learning english, 2 hours on learning chinese and 4 hours on learning spanish.",3.0,3
+Paul had 108 books. After selling some books in a garage sale and giving 35 books to his friend he had 62 books left.,11.0,10 + 10 = 20
+Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left.,91.0,91
+Jerry had 8 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed 5 old ones.,7.0,12
+Mary is baking a cake. The recipe calls for 9 cups of sugar 7 cups of flour and 4 cups of salt. She already put in 2 cups of flour.,1.0,10 + 10 = 20
+Jerry had 9 action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If he also has 10 books on the shelf,6.0,6
+Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons.,410.0,410
+"Jack received 9 emails in the morning, 10 emails in the afternoon and 7 emails in the evening.",2.0,2
+Jack received 6 emails in the morning and 8 emails in the afternoon.,2.0,2
+Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning.,131.0,131
+Jake has 18 fewer peaches than Steven who has 13 more peaches than Jill. Steven has 19 peaches.,6.0,6
+Lucy went to the grocery store. She bought 23 packs of cookie and some packs of cake. In total she had 27 packs of grocery,4.0,4
+Every day Ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish.,3.0,3
+A book has 2 chapters. The first chapter is 48 pages long. The second chapter is 11 pages long.,37.0,37
+"6 green peaches, 60 yellow peaches and 2 red peaches are in the basket.",4.0,4
+There were 22 parents in the program and 676 people in total.,654.0,654
+Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 49 g of colors to paint them. If the feathers require 288 g of wax and right now he just needs 260 g,28.0,28
+Mary is baking a cake. The recipe calls for 14 cups of flour and 6 cups of sugar. She already put in 5 cups of flour.,3.0,10 + 10 = 20
+Jake has 12 fewer peaches than Steven who has 11 more peaches than Jill. Steven has 4 peaches.,1.0,1
+Jake has 12 fewer peaches and 79 more apples than Steven. Steven has 19 peaches and 14 apples.,7.0,7
+There are 10 different books and 6 different movies in the ' crazy silly school ' series. If you read 14 of the movies and watched 19 of the books,5.0,5
+There were 100 dollars in Olivia's wallet. She collected 148 more dollars from an atm. After she visited a supermarket there were 159 dollars left.,89.0,89
+A waiter had 11 customers. After some left he still had 3 customers.,5.0,10 + 10 = 20
+Katie had 81 ds games and her friends had 59 games.,22.0,22
+Julia played tag with 5 kids on tuesday. She had played tag with 6 kids on monday.,1.0,1
+Julia played tag with a total of 18 kids. She played with 4 kids on monday and yet with some more kids on tuesday.,14.0,14
+Jerry had 3 books and 4 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,3.0,3
+Dave had 19 apps and 18 files on his phone. After deleting some apps and files he had 6 apps and 15 files left.,9.0,9
+Baker made 99 cakes. He bought 167 new cakes and sold 89 cakes.,78.0,78
+David did 44 push-ups in gym class today. David did 9 more push-ups than Zachary.,35.0,35
+There were 7 roses in the vase. Jessica cut some more roses from her flower garden which had a total of 59 roses. There are now 20 roses in the vase.,13.0,13
+Baker made 13 cakes. He sold 91 of them and bought 154 new cakes.,63.0,63
+He then went to see the oranges being harvested. He found out that they harvest 71 sacks of unripe oranges and 60 sacks of ripe oranges per day.,11.0,11
+"At the zoo, a cage had snakes and alligators. The total number of animals in the cage was 79. If 24 snakes and 51 alligators were hiding",4.0,10 + 10 = 20
+Danny has 21 bottle caps in his collection. He found some more bottle caps at the park. If he has 53 bottle caps now,32.0,32
+There were 2 roses in the vase. Jessica threw away 4 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 23 roses in the vase.,25.0,25
+Jerry had 7 action figures and 2 books on a shelf in his room. Later he added 4 more books to the shelf.,1.0,5
+In a school there are 34 girls and 841 boys.,807.0,807
+Bobby ate some pieces of candy. Then he ate 25 more. If he ate a total of 43 pieces of candy,18.0,18
+53 campers went rowing in the morning 48 campers went rowing in the afternoon and 49 campers went rowing in the evening.,4.0,4
+"Jack received 3 emails in the afternoon, 5 emails in the morning and 16 emails in the evening.",2.0,2
+Rachel had to complete 3 pages of math homework and 4 pages of reading homework.,1.0,1
+A book has 2 chapters. The first chapter is 37 pages long. The second chapter is 80 pages long.,43.0,43
+There are 8 different movies and 21 different books in the ' crazy silly school ' series. If you read 7 of the books and watched 4 of the movies,4.0,4
+The Razorback shop makes $ 192 dollars off each t-shirt and $ 34 off each jersey. During the Arkansas and Texas tech game they sold 157 t-shirts and 19 jerseys.,158.0,158
+"After a typhoon, 13 trees in Haley's backyard died. If she had grown 3 trees initially",23.0,10 + 10 = 20
+Josh had 9 marbles in his collection. He lost some marbles. If he has 4 marbles now,5.0,5
+They decided to hold the party in their backyard. They have 14 chairs for each set of table. If they have 9 sets of tables,117.0,117
+Marco and his dad went strawberry picking. Together they collected strawberries that weighed 24 pounds. On the way back Marco lost 9 pounds of strawberries. Marco's strawberries now weighed 3 pounds.,12.0,12
+Mary is baking a cake. The recipe calls for 12 cups of flour and 13 cups of sugar. She already put in 2 cups of sugar.,11.0,11
+Winter is almost here and most animals are migrating to warmer countries. There are 38 bird families living near the mountain. If 47 bird families flew away to africa and 94 bird families flew away to asia,47.0,47
+Zachary did 51 push-ups and David did 44 push-ups in gym class today.,7.0,7
+Mary is baking a cake. The recipe calls for 6 cups of flour 8 cups of sugar and 7 cups of salt. She already put in 5 cups of flour.,1.0,1
+Paige raised 16 goldfish and 71 catfish in the pond but stray cats loved eating them. Now she has 2 left.,14.0,14
+Rachel picked 7 ripe apples from her tree. Now the tree has 5 apples still on it. If 3 of those are ripe and the rest are unripe,2.0,2
+Because of the decision Sofia asked the students to suggest specific types of food. If 228 students suggested adding mashed potatoes 337 suggested adding bacon to the menu and 23 suggested adding tomatoes,314.0,314
+"Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday.",2.0,2
+In a school there are 402 more girls than boys. If there are 739 girls,337.0,337
+For Gwen's birthday she received 2 dollars from her mom. Her dad gave her 4 more dollars. If she spent 3 dollars.,3.0,3
+Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house.,20.0,20
+Baker made 8 cakes. He bought 139 new cakes and sold 145 cakes.,6.0,6
+Jack received 6 emails and 8 letters in the morning. He then received 2 emails and 7 letters in the afternoon.,1.0,1
+Jake has 3 fewer peaches and 10 more apples than Steven. Steven has 12 peaches and 15 apples.,3.0,3
+Rachel had to complete 5 pages of math homework and 2 pages of reading homework.,3.0,3
+Jesse's room is 19 feet wide and 20 feet long.,1.0,1
+Paul got a box of 601 crayons and 406 erasers for his birthday. At the end of the school year he only had 336 crayons left while not having lost a single eraser.,70.0,70
+Mary is baking a cake. The recipe calls for 5 cups of sugar and 14 cups of flour. She already put in 11 cups of flour.,2.0,10 + 10 = 20
+Adam has 10 apples. Jackie has 2 apples.,8.0,8
+Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf.,6.0,6
+Danny collects bottle caps and wrappers. He found 82 wrappers and 29 bottle caps at the park. Now he has 42 bottle caps and 61 wrappers in his collection.,13.0,13
+At the arcade Dave had won 13 tickets. If he used 8 to buy some toys and 18 more to buy some clothes,10.0,10
+Marco and his dad went strawberry picking. Together their strawberries weighed 35 pounds. Marco's strawberries weighed 13 pounds.,9.0,10 + 10 = 20
+"19 red peaches, 11 yellow peaches and 12 green peaches are in the basket.",8.0,8
+For Gwen's birthday she received 8 dollars from her mom. Her dad gave her 5 more dollars. If she spent 4 dollars.,3.0,3
+Dave had 16 apps and 77 files on his phone. After deleting some apps and files he had 5 apps and 23 files left.,11.0,11
+Paco had 39 sweet cookies and 6 salty cookies. He ate 23 salty cookies and 32 sweet cookies.,9.0,9
+Haley grew 13 trees in her backyard. After a typhoon 6 died.,1.0,10 + 10 = 20
+Julia played tag with 18 kids on monday. She played tag with 10 kids on tuesday.,8.0,8
+Kelly has 46 nintendo games and 132 sony games.,101.0,101
+5 red peaches and 11 green peaches are in the basket.,6.0,6
+"Rachel had to complete 9 pages of math homework, 2 pages of reading homework and 96 more pages of biology homework.",7.0,7
+Josh had 4 marbles in his collection. He lost 16 marbles and found 8 new ones.,8.0,8
+Danny collects bottle caps and wrappers. He found 11 bottle caps and 28 wrappers at the park. Now he has 68 bottle caps and 51 wrappers in his collection.,17.0,17
+Dave had 59 files and 15 apps on his phone. After deleting some apps and files he had 12 apps and 30 files left.,3.0,3
+Paul had 71 books. After selling some in a garage sale he bought 38 new ones. If he has 116 books now,45.0,45
+Kelly has 20 nintendo games and 70 sony games.,8.0,8
+Julia played tag with 11 kids on monday. She played tag with 12 kids on tuesday.,1.0,1
+Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. The next day she found 7 more bags worth of cans.,1.0,1
+Because of the decision Sofia asked the students to suggest specific types of food. 457 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 63 more students suggested adding mashed potatoes than those that suggested bacon,394.0,404
+5 storks and 3 birds were sitting on the fence. 4 more birds came to join them.,2.0,2
+Paco had 22 sweet cookies and 75 salty cookies. He ate 15 sweet cookies and 54 salty cookies.,7.0,7
+Mary is baking a cake. The recipe calls for 9 cups of flour and 5 cups of sugar. She already put in 3 cups of flour and 62 cups of sugar.,6.0,6
+There are 8 different books and 10 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 61 of the movies,2.0,2
+At the arcade Dave had won 7 tickets. He used some tickets to buy toys. If he still has 2 tickets left,5.0,5
+Every day Ryan spends 7 hours on learning english and some more hours on learning chinese. If he spends 2 hours more on learning english than on learning chinese,5.0,5
+Jake has 7 fewer peaches than Steven and 8 more peaches than Jill. Steven has 17 peaches.,2.0,10 + 10 = 20
+"2 red peaches, 6 yellow peaches and 14 green peaches are in the basket.",8.0,8
+Every day Ryan spends a total of 3 hours on learning english and chinese. If he spends 2 hours on learning english everyday,1.0,1
+Bobby ate 38 pieces of candy. Then he ate 36 more. He also ate 16 pieces of chocolate.,58.0,58
+A waiter had 8 customers. After some left he still had 5 customers. Then he got 99 new customers,3.0,3
+Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches.,4.0,4
+Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese.,1.0,1
+Paco had 28 cookies. He ate some of them and had 7 cookies left.,21.0,21
+Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies,34.0,34
+Mary is baking a cake. The recipe calls for 12 cups of flour 14 cups of sugar and 7 cups of salt. She already put in 2 cups of flour.,3.0,10 + 10 = 20
+There were 15 roses in the vase. Jessica threw away 33 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 17 roses in the vase.,2.0,2
+Last week Fred had 49 dollars and Jason had 3 dollars. Fred washed cars over the weekend and now has 112 dollars. Jason delivered newspapers and now has 63 dollars.,60.0,57
+Jake has 7 fewer peaches than Steven and 9 more peaches than Jill. Steven has 16 peaches.,9.0,9
+46 campers went rowing on a day. 43 campers went rowing in the morning and some more campers went rowing in the afternoon.,3.0,3
+A book has 2 chapters. The second chapter is 36 pages long. If there are a total of 67 pages in the book,31.0,31
+Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 3 invitations in it and she bought 2 packs. If she wants to invite 9 friends,3.0,3
+Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David.,30.0,20
+Ed had 2 more marbles than Doug. Doug lost some of his marbles at the playground. Now Ed has 19 more marbles than doug.,17.0,17
+Paul had 95 pens and 153 books. After selling some books and pens in a garage sale he had 13 books and 23 pens left.,140.0,140
+Danny collects bottle caps. He threw away 54 of the old ones at the park while he found 48 bottle caps new ones. Now he has 52 bottle caps in his collection.,6.0,6
+The grasshopper and the frog had a jumping contest. The grasshopper jumped 35 inches. The grasshopper jumped 4 inches farther than the frog.,66.0,70
+Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons.,322.0,322
+In a school there are 569 girls and 236 boys.,333.0,333
+The Ferris wheel in paradise park has 6 seats. Each seat can hold 14 people. If there are 16 people on the wheel right now,68.0,68
+After Olivia visited a supermarket there were 29 dollars left. If there were 54 dollars in her wallet initially,25.0,25
+Haley grew 20 trees in her backyard. After a typhoon 4 trees were left.,16.0,16
+Jake has 7 fewer peaches than Steven who has 14 more peaches than Jill. Steven has 15 peaches.,8.0,8
+Paul had 51 books and 106 pens. After selling some books and pens in a garage sale he had 82 books and 14 pens left.,92.0,92
+Zachary did 44 push-ups and 17 crunches in gym class today. David did 29 more push-ups but 13 less crunches than zachary.,4.0,4
+Paul had 42 pens and 143 books. After selling some books and pens in a garage sale he had 113 books and 19 pens left.,23.0,23
+Danny collects bottle caps and wrappers. He found 71 bottle caps and 24 wrappers at the park. Now he has 28 bottle caps and 16 wrappers in his collection.,12.0,12
+Dan has $ 4. He bought 99 candy bar for $ 3 each one costing the same amount of money.,1.0,1
+5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus.,9.0,9
+Mary is baking a cake. The recipe calls for 3 cups of sugar and 10 cups of flour. She already put in some cups of flour. If she still needs 5 more cups of flour than sugar,2.0,10 + 10 = 20
+Bobby had 19 pieces of candy. He ate 2 pieces of candy.,17.0,17
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 705 visitors came to the Buckingham palace that day. If there were 191 visitors the previous day and 457 visitors the day before that",57.0,157
+Paul had 108 books and 55 pens. After selling some books and pens in a garage sale he had 66 books and 59 pens left.,42.0,42
+Marco and his dad went strawberry picking. Marco's dad's strawberries weighed 11 pounds. If together their strawberries weighed 30 pounds.,19.0,19
+Marco and his dad went strawberry picking. Marco's strawberries weighed 15 pounds. If together their strawberries weighed 37 pounds.,22.0,22
+Paul got a box of 521 crayons and 66 erasers for his birthday. At the end of the school year he only had 154 left while not having lost a single erasers.,367.0,367
+David did 56 more push-ups than Zachary in gym class today. If David did 38 push-ups,20.0,20
+Danny collects bottle caps and wrappers. He found 10 bottle caps and 62 wrappers at the park. Now he has 27 bottle caps and 43 wrappers in his collection.,16.0,16
+4 birds and 3 storks were sitting on the fence. 6 more storks came to join them.,5.0,5
+Jessie weighed 114 kilograms. After she started to go jogging everyday she lost 50 kilograms in the first week and 60 kilograms in the second week.,4.0,10 + 10 = 20
+"Julia played tag with 14 kids on monday, 2 kids on tuesday and 8 kids on wednesday.",6.0,6
+A waiter had 3 customers. After some more arrived he had 8 customers.,5.0,5
+"Jack received 3 emails in the afternoon, 6 emails in the morning and some more in the evening. If he received a total of 10 emails in the day",1.0,1
+The school is planning a field trip. The school has 102 classrooms. There are 11 students in the school and 99 seats on each school bus. If 8 students do n't want to go for the trip,3.0,3
+Jesse's room is 11 feet long and 15 feet wide. If she already has 16 square feet of carpet,149.0,149
+Jake has 6 fewer peaches and 8 more apples than Steven. Steven has 17 peaches and 16 apples.,1.0,1
+Danny collects bottle caps. He threw away 60 of the old ones at the park while he found 58 bottle caps new ones. Now he has 67 bottle caps in his collection.,69.0,127
+Nell collects baseball cards. She had 573 cards. She gave 195 cards to John and yet some more to Jeff. Now she has 210 cards left.,168.0,10 + 10 = 20
+Next on his checklist is wax to stick the feathers together. If he currently has 11 g of wax and the feathers require a total of 492 g of wax,481.0,481
+Steven has 19 peaches. Jake has 12 fewer peaches than Steven and 72 more peaches than Jill.,7.0,7
+A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long.,68.0,68
+Danny collects bottle caps. He found 36 bottle caps at the park while he threw away 35 old ones. Now he has 22 bottle caps in his collection.,1.0,1
+Dan has $ 4. For a total of $ 3 he bought 10 candy bar each one costing the same amount of money.,1.0,1
+Mary is baking a cake. The recipe calls for 6 cups of sugar and 9 cups of flour. She already put in 2 cups of flour.,1.0,10 + 10 = 20
+"At the zoo, a cage had 95 snakes and 61 alligators. If 64 snakes were hiding",31.0,31
+Baker made 155 cakes. If his friend bought 140 cakes from him,15.0,15
+2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus.,8.0,8
+Danny collects bottle caps and wrappers. He found 22 bottle caps and 8 wrappers at the park. Now he has 28 bottle caps and 63 wrappers in his collection.,6.0,6
+Paco ate 36 cookies. If he had 37 cookies initially,1.0,1
+Bobby had 21 pieces of candy. He ate 5 pieces of candy. Then he ate 9 more.,7.0,7
+Baker made 54 cakes. He sold some of them. If he still has 13 cakes left,41.0,41
+During summer break 819058 kids from Lawrence county go to camp and the other 668278 kids stay home.,150780.0,150780
+Randy has 79 blocks. He uses 14 blocks to build a tower and 11 blocks to build a house.,54.0,54
+2 birds were sitting on the fence. Some more birds came to join them. If there are a total of 6 birds on the fence now,4.0,4
+Jesse's room is 12 feet long and 11 feet wide.,1.0,1
+There are 16 different books and 14 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 13 of the movies,2.0,2
+Jerry had 2 action figures and 10 books on a shelf in his room. Later he added 4 more action figures to the shelf.,4.0,8
+Mary is baking a cake. The recipe calls for 5 cups of sugar and 13 cups of flour. She already put in some cups of flour. If she still needs 12 more cups of flour,1.0,1
+Paul had 134 books. After giving 39 books to his friend and selling some books in a garage sale he had 68 books left.,27.0,10 + 10 = 20
+Paco had 97 salty cookies and 34 sweet cookies. He ate 15 sweet cookies and 56 salty cookies.,19.0,19
+"Julia played tag with 15 kids on monday, 18 kids on tuesday and 7 kids on wednesday.",26.0,23
+Baker made 133 cakes. If he sold 51 of them,82.0,82
+Olivia spent 38 dollars at a supermarket. If there were 128 dollars in her wallet initially,90.0,90
+Baker sold 44 cakes. If he had made 48 cakes initially,4.0,4
+Rachel had to complete 8 pages of math homework. If she had to complete 3 more pages of math homework than reading homework,13.0,13
+Dan has $ 5. He bought a chocolate for $ 3 and a candy bar for $ 7.,4.0,4
+Jessie weighed 92 kilograms. After she started to go jogging everyday she lost 56 kilograms in the first week and 99 kilograms in the second week.,36.0,37
+"The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 25 inches. The frog jumped 32 inches farther than the grasshopper and the mouse jumped 26 inches lesser than the frog.",31.0,31
+Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 10 invitations in it and she bought 7 packs. If she sends invitations to only 2 friends,68.0,68
+Rachel's tree had 4 apples initially. She picked some apples and now there are 2 apples left on the tree.,2.0,2
+The Razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt. During the Arkansas and Texas tech game they sold 113 t-shirts and 78 jerseys.,90.0,90
+Bobby had 22 pieces of candy. He ate some pieces of candy. Then he ate 5 more. If he still has 8 pieces of candy left,9.0,10 + 10 = 20
+Baker made 126 cakes and 48 pastries. If he sold 115 cakes and 81 pastries,78.0,78
+At the arcade Dave had won 19 tickets. If he used 12 to buy some toys and 7 more to buy some clothes,5.0,5
+Paul got a box of 440 crayons for his birthday. During the school year he gave 111 crayons to his friends while he lost 106 crayons.,223.0,223
+Some campers went rowing in the morning while 7 campers went rowing in the afternoon. If a total of 60 campers went rowing that day,53.0,53
+Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,2.0,4
+Katie had 57 new games and 39 old games. Her friends had 34 new games.,62.0,62
+Jake brought 6 balloons to the park. If Jake brought 4 more balloons than the number of balloons that Allan brought,2.0,2
+At the arcade Dave had won 14 tickets and lost 2 tickets. If he used 10 to buy some toys,2.0,10 + 10 = 20
+Edward had $ 18. He spent $ 16.,2.0,2
+For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 2 more dollars. If she spent 6 dollars.,3.0,3
+Baker made 14 cakes and 153 pastries. If he sold 8 pastries and 97 cakes,89.0,91
+"After a typhoon, 2 trees in Haley's backyard died. If she had grown 12 trees initially",10.0,10
+Paco had 8 sweet cookies and 6 salty cookies. He ate 20 sweet cookies and 34 salty cookies.,14.0,14
+"A grocery store had 79 bottles of regular soda, 53 bottles of diet soda and 42 apples.",26.0,26
+Jake has 84 more apples and 10 fewer peaches than Steven. Steven has 13 peaches and 52 apples.,3.0,3
+"Rachel had to complete 7 pages of math homework, 11 pages of reading homework and 8 more pages of biology homework.",3.0,3
+The cave is 1218 feet deep and they are already at 849 feet. If they are travelling at speed of 17,369.0,369
+Bobby had 32 pieces of candy. He ate some pieces of candy. If he has 20 pieces of candy left,12.0,12
+Baker sold 8 cakes. If he had made 40 cakes initially,32.0,32
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 100 visitors came to the Buckingham palace on the previous day. If there were 666 visitors on that day",566.0,566
+Mary is baking a cake. The recipe calls for 9 cups of flour and 11 cups of sugar. She already put in 4 cups of flour.,6.0,10 + 10 = 20
+Jake has 6 fewer peaches than Steven. Steven has 18 more peaches than Jill. If jill has 5 peaches,17.0,17
+Allan brought 6 balloons and Jake brought 2 balloons to the park. Jake then bought 3 more balloons at the park.,1.0,4
+Ed had 12 more marbles than Doug. Ed lost 20 of his marbles at the playground. If Ed had 17 marbles,5.0,5
+Lawrence county has 313473 kids. During summer break 274865 kids stay home and the rest go to camp.,38608.0,38608
+The Razorback shop makes $ 210 dollars off each jersey and $ 240 off each t-shirt. During the Arkansas and Texas tech game they sold 177 t-shirts and 23 jerseys.,30.0,30
+Baker made 54 cakes and 143 pastries. If he sold 68 cakes and 92 pastries,24.0,24
+Bobby ate 23 pieces of candy. If he initially had 30 pieces of candy,7.0,7
+"The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 19 inches. The grasshopper jumped 4 inches farther than the frog and the mouse jumped 44 inches lesser than the frog.",15.0,15
+Danny collects bottle caps and wrappers. He found 15 bottle caps and 18 wrappers at the park. Now he has 67 wrappers and 35 bottle caps in his collection.,32.0,32
+Robin's hair was 17 inches long. He cut off some inches of her hair. If his hair is now 13 inches long,4.0,4
+Baker made 56 pastries and 124 cakes. If he sold 104 cakes and 29 pastries,27.0,27
+3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them.,1.0,1
+The Razorback shop makes $ 86 dollars off each t-shirt and $ 232 off each jersey. During the Arkansas and Texas tech game they sold 254 t-shirts and 43 jerseys.,146.0,146
+Danny collects bottle caps and wrappers. He found 66 wrappers and 39 bottle caps at the park. Now he has 16 bottle caps and 68 wrappers in his collection.,2.0,2
+Haley grew 14 trees in her backyard. After a typhoon 9 died.,4.0,10 + 10 = 20
+Dave had 11 apps and 3 files on his phone. After deleting some apps and files he had 24 files and 2 apps left.,22.0,22
+"Jack received 10 emails in the morning, 7 emails in the afternoon and 17 emails in the evening.",3.0,3
+Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake.,6.0,6
+Every day Ryan spends 6 hours on learning english and 2 hours on learning chinese.,4.0,4
+David did 40 more push-ups but 17 less crunches than Zachary in gym class today. If Zachary did 34 push-ups and 62 crunches,45.0,45
+The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches.,22.0,22
+Paul had 50 books. After buying some in a garage sale he had 151 left.,101.0,101
+If they are already at 659 feet and the cave is 762 feet deep,103.0,103
+Jerry had 4 action figures on a shelf in his room. Later he added some more action figures to the shelf. If there are a total of 8 action figures on his shelf now,4.0,4
+Jack received a total of 9 emails in the day. If he received 7 emails in the morning and some more in the afternoon,2.0,2
+A grocery store had 19 bottles of diet soda and 60 bottles of regular soda.,41.0,41
+A book has 3 chapters. The first chapter is 35 pages long the second chapter is 18 pages long and the third chapter is 3 pages long.,15.0,15
+Randy has 97 blocks. He uses some blocks to build a tower. If there are 72 blocks left,25.0,25
+A waiter had 13 customers. After some left he got 4 new customers. If he still had 9 customers,8.0,10 + 10 = 20
+Every day Ryan spends 3 hours on learning english and some more hours on learning chinese. If he spends a total of 4 hours on learning english and chinese everyday,1.0,1
+A book has 2 chapters across 81 pages. The second chapter is 68 pages long.,13.0,13
+Baker made 52 pastries and 84 cakes. If he sold 102 cakes and 94 pastries,32.0,32
+Jessie weighed 71 kilograms. After she started to go jogging everyday she lost 20 kilograms.,51.0,51
+Lawrence county has 898051 kids. During summer break 629424 kids go to camp and the rest stay home.,268627.0,268627
+Dave had 17 apps and 21 files on his phone. After deleting some apps and files he had 3 apps and 7 files left.,14.0,14
+Nell collects baseball cards. She had 242 cards. She gave 136 of her cards to Jeff.,106.0,106
+There were 13 roses in the vase. Jessica cut some more roses from her flower garden which had a total of 12 roses. There are now 21 roses in the vase.,4.0,10 + 10 = 20
+Jerry had some action figures on a shelf in his room. Later he added 2 more action figures to the shelf and removed 7 of the old ones. If there are 10 action figures on his shelf now,15.0,15
+A book has 2 chapters across 23 pages. The first chapter is 10 pages long.,13.0,13
+Paul had 21 books. After selling some in a garage sale he bought 42 new ones. If he has 15 books now,6.0,6
+Allan and Jake brought 3 balloons to the park. If Allan brought 2 balloons,1.0,1
+After finding some bottle caps at the park danny has 32 bottle caps in his collection. If he had 25 bottle caps in his collection earlier,7.0,7
+Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. If 35 bird families flew away to asia and 62 bird families flew away to africa,27.0,27
+Rachel had to complete 5 pages of math homework and yet more pages of reading homework. If she had to complete a total of 7 pages of homework,2.0,2
+There were 6 roses and 20 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 21 orchids and 22 roses in the vase.,1.0,1
+There were 8 people on the bus. At the next stop 12 more people got on the bus and 3 people got off.,17.0,17
+Dave had 15 apps and 24 files on his phone. After deleting some apps and files he had 21 apps and 4 files left.,17.0,17
+Mary is baking a cake. The recipe calls for 11 cups of sugar 6 cups of flour and 9 cups of salt. She already put in 12 cups of flour.,2.0,2
+Dan has $ 7. He bought a candy bar for $ 2 and a chocolate for $ 3.,2.0,2
+During summer break 61619 kids from Lawrence county stayed home and the rest went to camp. The total number of kids in Lawrence county is 91676.,30057.0,29957
+Josh had 7 marbles in his collection. He lost 8 marbles and found 10 new ones.,2.0,2
+Nell collects cards. She had 239 baseball cards and 38 Ace cards. She gave some of her cards to Jeff and now has 376 Ace cards and 111 baseball cards left.,265.0,265
+In a school there are 362 boys and 257 girls. 403 more girls joined the school.,298.0,308
+Julia played tag with 16 kids on monday. If she played tag with 12 more kids on monday than on tuesday,4.0,4
+He then went to see the oranges being harvested. He found out that they harvest 41 sacks of unripe oranges and 86 sacks of ripe oranges per day.,45.0,45
+Allan brought 5 balloons. If Allan and Jake brought total of 6 balloons to the park,1.0,1
+Paco had 37 sweet cookies and 11 salty cookies. He ate 5 sweet cookies and 2 salty cookies.,3.0,3
+Paul got a box of 267 crayons for his birthday. During the school year he lost 231 crayons while he gave away 308 crayons to his friends.,77.0,77
+Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 20 eggs and 6 marbles.,14.0,14
+Paige raised 15 goldfish in the pond but stray cats loved eating them. 5 were eaten.,10.0,10
+Dave had 19 apps on his phone. He deleted 5 apps.,14.0,14
+Mary is baking a cake. The recipe calls for 9 cups of sugar 14 cups of flour and 40 cups of salt. She already put in 4 cups of flour.,1.0,10 + 10 = 20
+Jack received 10 emails and 12 letters in the morning. He then received 3 emails and 44 letters in the afternoon.,7.0,7
+David did 27 more push-ups but 7 less crunches than Zachary in gym class today. If Zachary did 5 push-ups and 17 crunches,12.0,12
+There were 106 dollars in Olivia's wallet. After she visited a supermarket and a showroom there were 26 dollars left. If she spent 49 dollars at the showroom,31.0,10 + 10 = 20
+"The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 24 inches. The frog jumped 33 inches farther than the grasshopper and the mouse jumped 5 inches lesser than the frog.",28.0,28
+Some children were riding on the bus. At the bus stop 2 more children got on the bus. Then there were 41 children altogether on the bus.,39.0,39
+Allan brought 5 balloons and Jake brought 3 balloons to the park.,2.0,2
+Winter is almost here and most animals are migrating to warmer countries. There are 8 bird families living near the mountain. If 42 bird families flew away to africa and 31 bird families flew away to asia,11.0,11
+Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary.,12.0,12
+For Gwen's birthday she received 3 dollars from her mom. Her dad gave her 6 more dollars. If she spent 4 dollars.,3.0,3
+Baker made 61 pastries and 167 cakes. If he sold 108 cakes and 44 pastries,59.0,59
+There are 11 different books and 17 different movies in the ' crazy silly school ' series. If you read 7 of the books and watched 21 of the movies,14.0,14
+Ed had 6 more marbles than Doug. Doug lost 7 of his marbles at the playground. If Ed had 22 marbles,9.0,10 + 10 = 20
+Dan has $ 2. He bought a candy bar for $ 6 and a chocolate for $ 3.,3.0,3
+A waiter had 3 customers. After some left he still had 4 customers.,5.0,10 + 10 = 20
+Jackie has 10 apples. Adam has 8 apples.,2.0,2
+Baker made 19 cakes and 131 pastries. If he sold 70 cakes and 88 pastries,112.0,112
+For Gwen's birthday she received 7 dollars. She spent some money and has 5 dollars left with her.,2.0,2
+Winter is almost here and most animals are migrating to warmer countries. 27 bird families flew away for the winter from near a mountain. If there were 41 bird families living near the mountain initially,14.0,14
+Jake has 16 fewer peaches than Steven. Steven has 15 more peaches than Jill. If Jill has 12 peaches,1.0,1
+A book has 2 chapters. The first chapter is 60 pages long. If there are a total of 93 pages in the book,33.0,33
+Julia played tag with some kids on monday. She played tag with 14 kids on tuesday. If she played with a total of 16 kids,2.0,2
+Baker's friend bought 137 cakes from him. If he had made 169 cakes initially,32.0,32
+Jerry had 5 action figures and 9 books on a shelf in his room. Later he added 7 more action figures to the shelf.,3.0,3
+Kelly has 80 nintendo games. She found 31 more nintendo games.,105.0,105
+There are 4 different books and 17 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 7 of the movies,10.0,10
+He then went to see the oranges being harvested. He found out that they harvest 5 sacks of ripe oranges and 74 sacks of unripe oranges per day.,69.0,69
+17 red peaches and 16 green peaches are in the basket.,1.0,1
+During summer break 202958 kids from Lawrence county go to camp and the other 777622 kids stay home.,574664.0,574664
+6 birds and 3 storks were sitting on the fence. 2 more storks came to join them.,1.0,3
+There are 22 different books and 10 different movies in the ' crazy silly school ' series. If you read 12 of the books and watched 56 of the movies,10.0,10
+Because of the decision Sofia asked 288 students to suggest specific types of food. 264 students suggested adding bacon while others suggested adding mashed potatoes to the menu.,24.0,24
+Winter is almost here and most animals are migrating to warmer countries. There are 85 bird families living near the mountain. If 23 bird families flew away to africa and 37 bird families flew away to asia,25.0,25
+Dan has $ 4. He bought a chocolate for $ 7 and a candy bar for $ 2.,5.0,5
+At the arcade Dave had won 18 tickets. If he used 5 to buy some toys and 11 more to buy some clothes,2.0,2
+There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase.,6.0,6
+Allan brought 2 balloons and Jake brought 6 balloons to the park. Allan then bought 3 more balloons at the park.,1.0,4
+"After a typhoon, 2 trees in Haley's backyard died. If she had grown 11 trees initially",7.0,10 + 10 = 20
+David did 30 more push-ups than Zachary in gym class today. If David did 37 push-ups,7.0,7
+Marco and his dad went strawberry picking. Marco's strawberries weighed 30 pounds. If together their strawberries weighed 47 pounds.,13.0,10 + 10 = 20
+Debby bought 264 water bottles when they were on sale. If she drank 15 bottles a day for 11 days.,99.0,99
+33 campers went rowing in the morning 34 campers went rowing in the afternoon and 10 campers went rowing in the evening.,24.0,24
+Baker made 7 cakes and 148 pastries. If he sold 15 cakes and 103 pastries,45.0,45
+Robin cut off 13 inches of his hair. If his hair was 14 inches long initially,1.0,1
+Last week Fred had 60 dollars and Jason had 19 dollars. Jason washed cars over the weekend and now has 33 dollars.,14.0,14
+Paul sold some books in a garage sale leaving him with 27 books. If he had 136 books initially,109.0,109
+Next on his checklist is wax to stick the feathers together. If the feathers require 166 g of wax and right now he has 20 g,146.0,146
+The grasshopper and the frog had a jumping contest. The grasshopper jumped 9 inches and the frog jumped 12 inches.,3.0,3
+Steven has 18 peaches. Jake has 12 fewer peaches than Steven who has 8 more peaches than Jill.,10.0,10
+Ed had 30 more marbles than Doug. Ed lost 21 of his marbles at the playground. If Ed had 91 marbles,9.0,9
+A farmer had 105 green tomatoes and 71 red tomatoes in his garden. If he picked 137 tomatoes,39.0,41
+Lewis earns $ 21 every week during the 216 weeks of harvest. If he has to pay $ 702 tax,3834.0,3834
+Nell collects baseball cards. She had 566 cards while Jeff had 234 cards. She gave some of her cards to Jeff and now has 535 cards left.,265.0,265
+Matthew had 31 crackers. He has 23 crackers left after he gave equal numbers of crackers to his 5 friends.,8.0,8
+Marco and his dad went strawberry picking. Marco's strawberries weighed 10 pounds. If together their strawberries weighed 26 pounds.,6.0,10 + 10 = 20
+Rachel picked 4 apples from her tree. If the tree had 7 apples initially.,3.0,3
+"After making some pies, chef had 2 apples left. Initially he had 43 apples",41.0,41
+There were 53 dollars in Olivia's wallet. She collected 91 more dollars from an atm. After she visited a supermarket there were 14 dollars left.,39.0,37
+Julia played tag with 5 kids on monday. She played tag with some more kids on tuesday. If she played with a total of 15 kids,10.0,10
+Danny collects bottle caps. He threw away 6 of the old ones at the park while he found 50 bottle caps new ones. Now he has 60 bottle caps in his collection.,44.0,44
+Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies.,12.0,10 + 10 = 20
+They decided to hold the party in their backyard. If they have 5 sets of tables and each set has 10 chairs,45.0,45
+A farmer had 177 tomatoes and 12 potatoes in his garden. If he picked 53 tomatoes,136.0,136
+"7 red peaches, 71 yellow peaches and 8 green peaches are in the basket.",1.0,1
+52 campers went rowing in the morning. 61 campers went rowing in the afternoon.,9.0,9
+There were 13 roses and 84 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 91 orchids and 14 roses in the vase.,1.0,1
+There are 17 different movies and 11 different books in the ' crazy silly school ' series. If you read 13 of the books and watched 63 of the movies,6.0,6
+Randy uses 36 blocks to build a tower. If he had 59 blocks,23.0,23
+Marco and his dad went strawberry picking. Together their strawberries weighed 20 pounds. His dad's strawberries weighed 17 pounds.,3.0,3
+Stray cats loved eating goldfish in the pond leaving 6 goldfish. Paige had raised 8 goldfish in the pond initially.,2.0,2
+Danny collects bottle caps and wrappers. He found 58 bottle caps and 25 wrappers at the park. Now he has 11 wrappers and 12 bottle caps in his collection.,1.0,1
+Mary is baking a cake. The recipe calls for 9 cups of flour and 6 cups of sugar. She already put in 4 cups of sugar.,7.0,10 + 10 = 20
+Paco had 9 sweet cookies and 6 salty cookies. He ate 36 sweet cookies and 3 salty cookies.,3.0,3
+Baker made 157 cakes and 169 pastries. If he sold 158 cakes and 147 pastries,11.0,11
+In a school there are 868 girls and the rest are boys. If there are 281 more girls than boys,1455.0,1455
+David did 51 push-ups in gym class today. David did 49 more push-ups than Zachary.,53.0,53
+Winter is almost here and most animals are migrating to warmer countries. There were 87 bird families living near the mountain. If 7 bird families flew away for winter,73.0,10 + 10 = 20
+A school has 485 pupils. There are 232 girls and the rest are boys.,253.0,253
+Baker made 134 pastries and 11 cakes. If he sold 140 cakes and 92 pastries,123.0,123
+Nell collects baseball cards. She had 528 cards while Jeff had 11 cards. She gave some of her cards to jeff and now has 252 cards left.,276.0,276
+Dave had 24 apps and 9 files on his phone. After deleting some apps and files he had 5 files and 12 apps left.,7.0,7
+44 campers went rowing in the morning 39 campers went rowing in the afternoon and 31 campers went rowing in the evening.,5.0,5
+Jesse has 18 square feet of carpet. If her room is 4 feet long and 20 feet wide,62.0,62
+Nell collects cards. She had 438 baseball cards and 18 Ace cards. She gave some of her cards to Jeff and now has 55 Ace cards and 178 baseball cards left.,123.0,123
+Matthew had 24 crackers. If Matthew gave equal numbers of crackers to his 3 friends and still had 17 crackers left,7.0,7
+They decided to hold the party in their backyard. They have 10 sets of tables and each set has 6 chairs. If there are 11 people sitting on chairs,49.0,49
+He then went to see the oranges being harvested. He found out that they harvest 44 sacks of ripe oranges and 25 sacks of unripe oranges per day.,19.0,19
+Paul had 2 books. After selling some in a garage sale he bought 150 new ones. If he has 58 books now,94.0,94
+6 storks and 2 birds were sitting on the fence. 3 more birds came to join them.,1.0,4
+Paul got a box of 531 crayons and 38 erasers for his birthday. At the end of the school year he only had 391 left while not having lost a single erasers.,353.0,353
+Dave had 10 apps on his phone. He added 11 new apps. After deleting some he had 4 left.,17.0,17
+There were 5 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 12 roses and 2 orchids in the vase.,10.0,10
+There are 14 different movies and 15 different books in the ' crazy silly school ' series. If you read 11 of the books and watched 40 of the movies,1.0,1
+Randy has 86 blocks. He uses 79 blocks to build a tower and 82 blocks to build a house.,3.0,3
+Last week Fred had 78 dollars and Jason had 31 dollars. Jason delivered newspapers and now has 57 dollars. Fred washed cars over the weekend and now has 90 dollars.,26.0,26
+Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles.,14.0,14
+Jack received 4 emails in the morning and some more in the afternoon. If he received a total of 5 emails in the day,1.0,1
+There were some roses in the vase. Jessica cut 16 more roses from her flower garden and put them in the vase. There are now 23 roses in the vase.,7.0,7
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 132 visitors came to the Buckingham palace that day. If 406 people visited the Buckingham palace within the past 327 days",274.0,274
+29 campers went rowing and 66 campers went hiking in the morning. 26 campers went rowing in the afternoon.,3.0,3
+Dave had 17 apps on his phone. After adding some he had 18 left.,1.0,1
+There were 174 parents in the program and 521 pupils too.,347.0,347
+"The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 39 inches. The grasshopper jumped 19 inches farther than the frog and the mouse jumped 12 inches lesser than the frog.",8.0,10 + 10 = 20
+"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 45 visitors came to the Buckingham palace on the previous day. If 829 people visited the Buckingham palace within the past 85 days",784.0,784
+Adam has 9 apples. Jackie has 10 apples.,1.0,1
+There are 2 baskets of peaches. Each basket has 4 red peaches and some more green peaches. If there are a total of 12 peaches in all baskets,2.0,6
+"A chef had 40 apples and 54 peaches. After making some pies, he had 39 apples left.",1.0,1
+Mary is baking a cake. The recipe calls for 10 cups of flour 2 cups of sugar and 80 cups of salt. She already put in 7 cups of flour.,1.0,10 + 10 = 20
+A book has 3 chapters. The first chapter is 53 pages long the second chapter is 75 pages long and the third chapter is 21 pages long.,32.0,32
+Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left.,3.0,3
+Bobby ate 17 pieces of candy. Then he ate 15 more. If he initially had 36 pieces of candy,4.0,4
+David did 36 more push-ups but 33 less crunches than Zachary in gym class today. If Zachary did 58 push-ups and 33 crunches,25.0,25
+Rebecca wants to split a collection of eggs into groups of 20. Rebecca has 5 marbles and 12 eggs.,7.0,7
+Baker made 81 cakes. Then he made 92 more cakes. He sold 46 of them.,127.0,127
+10 red peaches and some more green peaches are in the basket. If there are a total of 15 peaches in the basket,5.0,5
+62 campers went rowing in the morning. 39 campers went rowing in the afternoon.,23.0,23
+"Rachel had to complete 11 pages of math homework, 2 pages of reading homework and 3 more pages of biology homework.",8.0,8
+Adam has 3 more apples than jackie. Adam has 9 apples.,6.0,6
+"Rachel had to complete 4 pages of reading homework, 7 pages of math homework and 19 more pages of biology homework.",3.0,3
+Friends of Katie had 57 games and she had 63 ds games.,6.0,6
+Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 57 g of colors to paint them. He needs 22 g of wax more. If the feathers require a total of 353 g of wax,331.0,331
+"At the zoo, a cage had 3 snakes and 75 alligators. If 82 snakes and 19 alligators were hiding",56.0,56
+Mary is baking a cake. The recipe calls for 7 cups of sugar and 10 cups of flour. She already put in 4 cups of sugar.,3.0,3
+The grasshopper and the frog had a jumping contest. The grasshopper jumped 13 inches. The grasshopper jumped 2 inches farther than the grasshopper.,11.0,11

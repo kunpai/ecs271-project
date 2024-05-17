@@ -20,10 +20,18 @@ with open('answer_key/answers_{}.csv'.format(operation)) as f:
 # get the model results
 
 results = []
-with open('model/answers_{}_{}.csv'.format(args.type, operation)) as f:
-    reader = csv.reader(f)
-    for row in reader:
-        results.append(row)
+
+if 'scratch' not in args.type:
+    with open('model/answers_{}_{}.csv'.format(args.type, operation)) as f:
+        reader = csv.reader(f)
+        for row in reader:
+            results.append(row)
+
+else:
+    with open('model/answers_{}_{}_1shot.csv'.format(args.type, operation)) as f:
+        reader = csv.reader(f)
+        for row in reader:
+            results.append(row)
 
 # remove first element from both lists
 answer_key = answer_key[1:]
