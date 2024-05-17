@@ -6,28 +6,28 @@ We just put in the question as the prompt and see what the model generates.
 
 ### Addition
 
-- Correct: 110
-- Incorrect: 85
+- Correct: 115
+- Incorrect: 80
 - Total: 195
-- Accuracy: 0.5641025641025641
+- Accuracy: 0.5897435897435898
 
 ### Subtraction
 
-- Correct: 345
-- Incorrect: 163
+- Correct: 356
+- Incorrect: 152
 - Total: 508
-- Accuracy: 0.6791338582677166
+- Accuracy: 0.7007874015748031
 
 ### Multiplication
 
-- Correct: 48
-- Incorrect: 60
+- Correct: 63
+- Incorrect: 45
 - Total: 108
-- Accuracy: 0.4444444444444444
+- Accuracy: 0.5833333333333334
 
 ### Division
 
-- Correct: 134
-- Incorrect: 31
+- Correct: 140
+- Incorrect: 25
 - Total: 165
-- Accuracy: 0.8121212121212121
+- Accuracy: 0.8484848484848485

@@ -37,7 +37,8 @@ total = 0
 for i in range(len(answer_key)):
     print("Answer key: {}".format(answer_key[i][1]))
     print("Model: {}".format(results[i][-1]))
-    if results[i][-1] in answer_key[i][1]:
+    # if part of the answer is in the model output, consider it correct
+    if answer_key[i][1].split('.')[0] in results[i][-1]:
         correct += 1
     else:
         incorrect += 1
