@@ -31,3 +31,35 @@ We just put in the question as the prompt and see what the model generates.
 - Incorrect: 25
 - Total: 165
 - Accuracy: 0.8484848484848485
+
+## Textual Prompting
+
+We put in the question as the prompt and then give the equation to solve.
+
+### Addition
+
+- Correct: 115
+- Incorrect: 80
+- Total: 195
+- Accuracy: 0.5897435897435898
+
+### Subtraction
+
+- Correct: 380
+- Incorrect: 128
+- Total: 508
+- Accuracy: 0.7480314960629921
+
+### Multiplication
+
+- Correct: 53
+- Incorrect: 55
+- Total: 108
+- Accuracy: 0.49074074074074076
+
+### Division
+
+- Correct: 142
+- Incorrect: 23
+- Total: 165
+- Accuracy: 0.8606060606060606
