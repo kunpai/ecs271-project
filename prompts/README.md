@@ -96,3 +96,35 @@ Then, we ask the model to generate its own `<scratch>` `<\scratch>`, and use tha
 - Incorrect: 56
 - Total: 165
 - Accuracy: 0.6606060606060606
+
+## Code Prompting
+
+Asking model to generate code to solve a problem, and then running that code to get the answer.
+
+### Addition
+
+- Correct: 111
+- Incorrect: 84
+- Total: 195
+- Accuracy: 0.5692307692307692
+
+### Subtraction
+
+- Correct: 337
+- Incorrect: 171
+- Total: 508
+- Accuracy: 0.6622047244094488
+
+### Multiplication
+
+- Correct: 44
+- Incorrect: 64
+- Total: 108
+- Accuracy: 0.4074074074074074
+
+### Division
+
+- Correct: 134
+- Incorrect: 31
+- Total: 165
+- Accuracy: 0.8121212121212121

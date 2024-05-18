@@ -4,7 +4,7 @@ import csv
 
 arguments = argparse.ArgumentParser()
 arguments.add_argument('-operation', type=str, help='Operation to evaluate', required=True, choices=['addition', 'subtraction', 'multiplication', 'division'])
-arguments.add_argument('-type', type=str, help='Type of prompt', required=True, choices=['scratch', 'basic', 'text'])
+arguments.add_argument('-type', type=str, help='Type of prompt', required=True, choices=['scratch', 'basic', 'text', 'code'])
 
 args = arguments.parse_args()
 operation = args.operation
@@ -43,14 +43,21 @@ incorrect = 0
 total = 0
 
 for i in range(len(answer_key)):
-    print("Answer key: {}".format(answer_key[i][1]))
-    print("Model: {}".format(results[i][-1]))
-    # if part of the answer is in the model output, consider it correct
-    if answer_key[i][1].split('.')[0] in results[i][-1]:
-        correct += 1
-    else:
-        incorrect += 1
-    total += 1
+    try:
+        print("Answer key: {}".format(answer_key[i][1]))
+        print("Model: {}".format(results[i][-1]))
+        # if part of the answer is in the model output, consider it correct
+        if answer_key[i][1].split('.')[0] in results[i][-1]:
+            correct += 1
+        else:
+            incorrect += 1
+        total += 1
+    except:
+        print('Error')
+        print(i)
+        print(answer_key[i])
+        print(results[i])
+
 
 print("Correct: {}".format(correct))
 print("Incorrect: {}".format(incorrect))
