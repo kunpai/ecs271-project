@@ -28,7 +28,7 @@ if 'scratch' not in args.type:
             results.append(row)
 
 else:
-    with open('model/answers_{}_{}_1shot.csv'.format(args.type, operation)) as f:
+    with open('model/answers_{}_{}_new.csv'.format(args.type, operation)) as f:
         reader = csv.reader(f)
         for row in reader:
             results.append(row)
