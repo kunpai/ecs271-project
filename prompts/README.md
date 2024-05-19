@@ -131,14 +131,22 @@ Asking model to generate code to solve a problem, and then running that code to 
 - Total: 165
 - Accuracy: 0.8121212121212121
 
-### Scratch Prompting (Less Verbose 1 Shot)
+### Scratch Prompting (Less Verbose)
 
 We put in a sample question and a `<scratch>` `<\scratch>` encasing how to do that operation.
 Then, we ask the model to generate its own `<scratch>` `<\scratch>`, and use that to compute the answer.
 (way less verbose than the previous one)
 
 #### Addition
+
 - Correct: 141
 - Incorrect: 54
 - Total: 195
 - Accuracy: 0.7230769230769231
+
+#### Subtraction
+
+- Correct: 358
+- Incorrect: 150
+- Total: 508
+- Accuracy: 0.7047244094488189
