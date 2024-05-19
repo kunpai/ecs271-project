@@ -168,3 +168,17 @@ This is a combination of the code and text prompts.
 - Incorrect: 179
 - Total: 508
 - Accuracy: 0.6476377952755905
+
+### Multiplication
+
+- Correct: 52
+- Incorrect: 56
+- Total: 108
+- Accuracy: 0.48148148148148145
+
+### Division
+
+- Correct: 136
+- Incorrect: 29
+- Total: 165
+- Accuracy: 0.8242424242424242
