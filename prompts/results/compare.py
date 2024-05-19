@@ -4,7 +4,7 @@ import csv
 
 arguments = argparse.ArgumentParser()
 arguments.add_argument('-operation', type=str, help='Operation to evaluate', required=True, choices=['addition', 'subtraction', 'multiplication', 'division'])
-arguments.add_argument('-type', type=str, help='Type of prompt', required=True, choices=['scratch', 'basic', 'text', 'code'])
+arguments.add_argument('-type', type=str, help='Type of prompt', required=True, choices=['scratch', 'basic', 'text', 'code', 'codeplustext'])
 
 args = arguments.parse_args()
 operation = args.operation
@@ -28,7 +28,7 @@ if 'scratch' not in args.type:
             results.append(row)
 
 else:
-    with open('model/answers_{}_{}_new.csv'.format(args.type, operation)) as f:
+    with open('model/answers_{}_{}_1shot.csv'.format(args.type, operation)) as f:
         reader = csv.reader(f)
         for row in reader:
             results.append(row)
@@ -42,15 +42,26 @@ correct = 0
 incorrect = 0
 total = 0
 
+# trim down answer key or results to make sure the question numbers match
+# whichever is the shorter list, take a subset of the longer list that is the same as the shorter list
+
 for i in range(len(answer_key)):
     try:
-        print("Answer key: {}".format(answer_key[i][1]))
-        print("Model: {}".format(results[i][-1]))
+        if answer_key[i][0] not in results[i][0]:
+            if results[i][0] not in answer_key[i][0]:
+                print("Mismatch")
+                print(answer_key[i][0])
+                print(results[i][0])
+                break
+        # print("Answer key: {}".format(answer_key[i][1]))
+        # print("Model: {}".format(results[i][-1]))
         # if part of the answer is in the model output, consider it correct
         if answer_key[i][1].split('.')[0] in results[i][-1]:
             correct += 1
+            print("Correct", answer_key[i][1].split('.')[0], results[i][-1])
         else:
             incorrect += 1
+            print("Incorrect", answer_key[i][1].split('.')[0], results[i][-1])
         total += 1
     except:
         print('Error')

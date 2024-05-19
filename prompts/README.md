@@ -150,3 +150,21 @@ Then, we ask the model to generate its own `<scratch>` `<\scratch>`, and use tha
 - Incorrect: 150
 - Total: 508
 - Accuracy: 0.7047244094488189
+
+## Code Plus Text
+
+This is a combination of the code and text prompts.
+
+### Addition
+
+- Correct: 102
+- Incorrect: 93
+- Total: 195
+- Accuracy: 0.5230769230769231
+
+### Subtraction
+
+- Correct: 329
+- Incorrect: 179
+- Total: 508
+- Accuracy: 0.6476377952755905
