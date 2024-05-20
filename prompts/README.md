@@ -151,34 +151,45 @@ Then, we ask the model to generate its own `<scratch>` `<\scratch>`, and use tha
 - Total: 508
 - Accuracy: 0.7047244094488189
 
-## Code Plus Text
+### Code Plus Text
 
 This is a combination of the code and text prompts.
 
-### Addition
+#### Addition
 
 - Correct: 102
 - Incorrect: 93
 - Total: 195
 - Accuracy: 0.5230769230769231
 
-### Subtraction
+#### Subtraction
 
 - Correct: 329
 - Incorrect: 179
 - Total: 508
 - Accuracy: 0.6476377952755905
 
-### Multiplication
+#### Multiplication
 
 - Correct: 52
 - Incorrect: 56
 - Total: 108
 - Accuracy: 0.48148148148148145
 
-### Division
+#### Division
 
 - Correct: 136
 - Incorrect: 29
 - Total: 165
 - Accuracy: 0.8242424242424242
+
+## GSM8K Dataset
+
+### Basic Prompting
+
+We just put in the question as the prompt and see what the model generates.
+
+- Correct: 3163
+- Incorrect: 4185
+- Total: 7348
+- Accuracy: 0.43029259896729776
