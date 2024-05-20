@@ -151,7 +151,7 @@ Then, we ask the model to generate its own `<scratch>` `<\scratch>`, and use tha
 - Total: 508
 - Accuracy: 0.7047244094488189
 
-### Code Plus Text
+### Code Plus Textual Prompting
 
 This is a combination of the code and text prompts.
 
@@ -182,6 +182,67 @@ This is a combination of the code and text prompts.
 - Incorrect: 29
 - Total: 165
 - Accuracy: 0.8242424242424242
+
+### Textual Prompting with `<equation>` `<\equation>` Separators
+
+We put in the question as the prompt and then give the equation to solve.
+We use `<equation>` `<\equation>` to separate the question and the equation.
+
+#### Addition
+
+- Correct: 157
+- Incorrect: 38
+- Total: 195
+- Accuracy: 0.8051282051282052
+
+#### Subtraction
+
+- Correct: 410
+- Incorrect: 98
+- Total: 508
+- Accuracy: 0.8070866141732284
+
+#### Multiplication
+
+- Correct: 69
+- Incorrect: 39
+- Total: 108
+- Accuracy: 0.6388888888888888
+
+#### Division
+
+- Correct: 150
+- Incorrect: 15
+- Total: 165
+- Accuracy: 0.9090909090909091
+
+### Textual Prompting with `<equation>` `<\equation>` Separators and 1-Shot Scratch Prompting
+
+We put in the question as the prompt and then give the equation to solve.
+We use `<equation>` `<\equation>` to separate the question and the equation.
+We also use the scratch prompting to generate the equation.
+
+#### Addition
+
+- Correct: 146
+- Incorrect: 49
+- Total: 195
+- Accuracy: 0.7487179487179487
+
+#### Multiplication (Few-Shot with a Multiplication based scratch)
+
+- Correct: 51
+- Incorrect: 57
+- Total: 108
+- Accuracy: 0.4722222222222222
+
+#### Multiplication (Few-Shot with an Addition based scratch)
+
+- Correct: 68
+- Incorrect: 40
+- Total: 108
+- Accuracy: 0.6296296296296297
+
 
 ## GSM8K Dataset
 
