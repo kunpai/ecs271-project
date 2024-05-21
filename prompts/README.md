@@ -216,27 +216,37 @@ We use `<equation>` `<\equation>` to separate the question and the equation.
 - Total: 165
 - Accuracy: 0.9090909090909091
 
-### Textual Prompting with `<equation>` `<\equation>` Separators and 1-Shot Scratch Prompting
+### Textual Prompting with `<equation>` `<\equation>` Separators, 1-Shot Scratch Prompting with Simplified Equations
 
 We put in the question as the prompt and then give the equation to solve.
 We use `<equation>` `<\equation>` to separate the question and the equation.
+We simplied every equation to two numbers and the operation being few-shot.
 We also use the scratch prompting to generate the equation.
 
 #### Addition
 
-- Correct: 146
-- Incorrect: 49
+- Correct: 157
+- Incorrect: 38
 - Total: 195
-- Accuracy: 0.7487179487179487
+- Accuracy: 0.8051282051282052
 
-#### Multiplication (Few-Shot with a Multiplication based scratch)
+#### Subtraction
+
+- Correct: 454
+- Incorrect: 54
+- Total: 508
+- Accuracy: 0.8937007874015748
+
+#### Extras
+
+##### Multiplication (Few-Shot with a Multiplication based scratch)
 
 - Correct: 51
 - Incorrect: 57
 - Total: 108
 - Accuracy: 0.4722222222222222
 
-#### Multiplication (Few-Shot with an Addition based scratch)
+##### Multiplication (Few-Shot with an Addition based scratch)
 
 - Correct: 68
 - Incorrect: 40
