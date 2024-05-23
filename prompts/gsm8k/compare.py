@@ -20,28 +20,24 @@ correct = 0
 incorrect = 0
 total = 0
 
-if type_ == 'basic':
+if type_ == 'text' or type_ == 'basic':
     with open('results_{}.csv'.format(type_), 'r') as f:
         for row in f:
             # skip the header
             if 'question' in row:
                 continue
             try:
-                row = row.strip().split(',')
+                row = row.strip().split(';')
                 answer = row[-1]
-                found = False
-                # check if the model answer is in any other element in the row
-                for i in row[1:-1]:
-                    if answer in i:
-                        found = True
-                        break
-                if found:
+                model_answer = row[-2]
+                if answer in model_answer:
                     correct += 1
                 else:
                     incorrect += 1
                 total += 1
             except:
                 continue
+
 
 print(f"Correct: {correct}, Incorrect: {incorrect}, Total: {total}")
 print(f"Accuracy: {correct/total}")

@@ -21,8 +21,8 @@ with open('answer_key/answers_{}.csv'.format(operation)) as f:
 
 results = []
 
-if 'scratch' not in args.type:
-    with open('model/answers_{}_{}.csv'.format(args.type, operation)) as f:
+if 'scratch' in args.type:
+    with open('model/answers_{}_{}_newsep.csv'.format(args.type, operation)) as f:
         reader = csv.reader(f)
         for row in reader:
             results.append(row)
