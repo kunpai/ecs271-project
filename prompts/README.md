@@ -253,14 +253,22 @@ We also use the scratch prompting to generate the equation.
 - Total: 108
 - Accuracy: 0.6296296296296297
 
-
 ## GSM8K Dataset
 
 ### Basic Prompting
 
 We just put in the question as the prompt and see what the model generates.
 
-- Correct: 3163
-- Incorrect: 4185
-- Total: 7348
-- Accuracy: 0.43029259896729776
+- Correct: 3016
+- Incorrect: 4427
+- Total: 7443
+- Accuracy: 0.4052129517667607
+
+### Textual Prompting
+
+We put in the question as the prompt and then gave the equation to solve.
+
+- Correct: 6255
+- Incorrect: 1188
+- Total: 7443
+- Accuracy: 0.8393665158371041
