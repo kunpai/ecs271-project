@@ -264,6 +264,16 @@ We just put in the question as the prompt and see what the model generates.
 - Total: 7443
 - Accuracy: 0.4052129517667607
 
+### Basic Prompting with only Addition and Subtraction
+
+We just put in the question as the prompt and see what the model generates.
+We only consider the addition and subtraction questions.
+
+- Correct: 1636
+- Incorrect: 2696
+- Total: 4332
+- Accuracy: 0.37790697674418605
+
 ### Textual Prompting
 
 We put in the question as the prompt and then gave the equation to solve.
@@ -272,3 +282,22 @@ We put in the question as the prompt and then gave the equation to solve.
 - Incorrect: 1188
 - Total: 7443
 - Accuracy: 0.8393665158371041
+
+### Textual Prompting with only Addition and Subtraction
+
+We put in the question as the prompt and then gave the equation to solve.
+We only consider the addition and subtraction questions.
+
+- Correct: 3765
+- Incorrect: 567
+- Total: 4332
+- Accuracy: 0.8682170542635659
+
+### Scratch Prompting (1 Shot) with only Addition and Subtraction
+
+We put in a sample question and a `<scratch>` `<\scratch>` encasing how to do that operation.
+Then, we ask the model to generate its own `<scratch>` `<\scratch>`, and use that to compute the answer.
+
+- Correct: 2876
+- Incorrect: 1456
+- Total: 4332

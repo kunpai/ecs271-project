@@ -21,7 +21,7 @@ incorrect = 0
 total = 0
 
 if type_ == 'text' or type_ == 'basic':
-    with open('results_{}.csv'.format(type_), 'r') as f:
+    with open('results_{}_small.csv'.format(type_), 'r') as f:
         for row in f:
             # skip the header
             if 'question' in row:
@@ -34,6 +34,28 @@ if type_ == 'text' or type_ == 'basic':
                     correct += 1
                 else:
                     incorrect += 1
+                total += 1
+            except:
+                continue
+
+if type_ == 'scratch':
+    with open('results_{}_small.csv'.format(type_), 'r') as f:
+        for row in f:
+            # skip the header
+            if 'question' in row:
+                continue
+            try:
+                row = row.strip().split('@')
+                answer = row[-1]
+                model_answer = row[-2]
+                if answer in model_answer:
+                    correct += 1
+                else:
+                    model_answer = row[-3]
+                    if answer in model_answer:
+                        correct += 1
+                    else:
+                        incorrect += 1
                 total += 1
             except:
                 continue
