@@ -3,10 +3,13 @@ import csv
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from nltk.metrics import edit_distance
 
+# add the .txt file containing the prompts here
 txt_file = r"scratch_subtraction_newsep.txt"
 
+# add the name of the csv file to be created here
 csv_file = r"equation_subtraction.csv"
 
+# opens the .txt file
 in_txt = csv.reader(open(txt_file, "r"), delimiter = '\n')
 
 # open csv file
@@ -15,6 +18,7 @@ with open(csv_file, 'w', newline='', encoding='utf-8') as f:
     writer.writerow(["equation", "carry", "full_prompt"])
 
 for row in in_txt:
+    # extract the equation from the prompt, remove whitespace and .0 and parentheses to make sure the equation is in the correct format
     equation = row[0].split('<equation>')[1].split('</equation>')[0]
     equation = equation.replace(' ', '')
     equation = equation.replace('.0', '')
