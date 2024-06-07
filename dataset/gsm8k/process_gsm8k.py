@@ -2,7 +2,7 @@ import json
 import os
 
 with open('data_small.csv', 'w') as f:
-    f.write('question;answer;equation;scratch;simplified_equation\n')
+    f.write('question#answer#equation#scratch#simplified_equation\n')
 
 def generate_scratch(equation):
     operation = ""
@@ -466,6 +466,8 @@ def generate_scratch(equation):
         number2 = int(subtrahend)
     return scratch, number1, number2, operation
 
+addition_gsm8k = []
+subtraction_gsm8k = []
 for line in open('data.jsonl'):
     try:
         data = json.loads(line)
@@ -489,10 +491,35 @@ for line in open('data.jsonl'):
         if scratch is None:
             scratch = '<scratch>Failed to generate scratch work</scratch>'
             continue
+        print(operation)
         # equation = data['answer'].split('<<')[1].split('>>')[0].strip()
-        with open('data_small.csv', 'a') as f:
-            f.write(question + ';' + answer + ';' + equation + ';' + scratch + ';' + simplified_equation + '\n')
+        if operation == 'add':
+            addition_gsm8k.append((question, answer, equation, scratch, simplified_equation))
+        elif operation == 'subtract':
+            subtraction_gsm8k.append((question, answer, equation, scratch, simplified_equation))
+        # with open('data_small.csv', 'a') as f:
+        #     f.write(question + '#' + answer + '#' + equation + '#' + scratch + '#' + simplified_equation + '\n')
     except Exception as e:
         print(e)
         print(line)
         continue
+
+print(len(addition_gsm8k))
+print(len(subtraction_gsm8k))
+# sample out 200 questions from each operation
+import random
+random.seed(42)
+random.shuffle(addition_gsm8k)
+random.shuffle(subtraction_gsm8k)
+addition_gsm8k = addition_gsm8k[:400]
+subtraction_gsm8k = subtraction_gsm8k[:400]
+
+with open('data_sampled_addition.csv', 'w') as f:
+    f.write('question#answer#equation#scratch#simplified_equation\n')
+    for row in addition_gsm8k:
+        f.write(row[0] + '#' + row[1] + '#' + row[2] + '#' + row[3] + '#' + row[4] + '\n')
+
+with open('data_sampled_subtraction.csv', 'w') as f:
+    f.write('question#answer#equation#scratch#simplified_equation\n')
+    for row in subtraction_gsm8k:
+        f.write(row[0] + '#' + row[1] + '#' + row[2] + '#' + row[3] + '#' + row[4] + '\n')
