@@ -3,9 +3,9 @@ import csv
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from nltk.metrics import edit_distance
 
-txt_file = r"scratch_addition_newsep.txt"
+txt_file = r"scratch_subtraction_newsep.txt"
 
-csv_file = r"equation_addition.csv"
+csv_file = r"equation_subtraction.csv"
 
 in_txt = csv.reader(open(txt_file, "r"), delimiter = '\n')
 
@@ -71,7 +71,7 @@ with open(csv_file, 'r') as f:
 
     for i, row in enumerate(rows):
         if "equation#carry#full_prompt" in row:
-            new_row = row + "closest_equation1#closest_bleu_score1#closest_distance1#closest_prompt1#closest_distance1#closest_equation2#closest_bleu_score2#closest_distance2#closest_prompt2#closest_distance2#closest_equation3#closest_bleu_score3#closest_distance3#closest_prompt3#closest_distance3#closest_equation4#closest_bleu_score4#closest_distance4#closest_prompt4#closest_distance4#closest_equation5#closest_bleu_score5#closest_distance5#closest_prompt5#closest_distance5#closest_equation6#closest_bleu_score6#closest_distance6#closest_prompt6#closest_distance6#closest_equation7#closest_bleu_score7#closest_distance7#closest_prompt7#closest_distance7#closest_equation8#closest_bleu_score8#closest_distance8#closest_prompt8#closest_distance8#closest_equation9#closest_bleu_score9#closest_distance9#closest_prompt9#closest_distance9#closest_equation10#closest_bleu_score10#closest_distance10#closest_prompt10#closest_distance10\n"
+            new_row = row + "closest_equation1#closest_bleu_score1#closest_distance1#closest_prompt1#closest_equation2#closest_bleu_score2#closest_distance2#closest_prompt2#closest_equation3#closest_bleu_score3#closest_distance3#closest_prompt3#closest_equation4#closest_bleu_score4#closest_distance4#closest_prompt4#closest_equation5#closest_bleu_score5#closest_distance5#closest_prompt5#closest_equation6#closest_bleu_score6#closest_distance6#closest_prompt6#closest_equation7#closest_bleu_score7#closest_distance7#closest_prompt7#closest_equation8#closest_bleu_score8#closest_distance8#closest_prompt8#closest_equation9#closest_bleu_score9#closest_distance9#closest_prompt9#closest_equation10#closest_bleu_score10#closest_distance10#closest_prompt10\n"
             new_lines.append(new_row)
             continue
 
