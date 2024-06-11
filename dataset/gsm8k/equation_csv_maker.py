@@ -4,10 +4,10 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from nltk.metrics import edit_distance
 
 # add the .txt file containing the prompts here
-txt_file = r"data_sampled_addition.csv"
+txt_file = r"data_sampled_subtraction.csv"
 
 # add the name of the csv file to be created here
-csv_file = r"equation_addition.csv"
+csv_file = r"equation_subtraction_all.csv"
 
 # opens the .txt file
 in_txt = csv.reader(open(txt_file, "r"), delimiter = '#')

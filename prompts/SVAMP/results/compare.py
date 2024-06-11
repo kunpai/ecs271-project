@@ -4,7 +4,7 @@ import csv
 
 arguments = argparse.ArgumentParser()
 arguments.add_argument('-operation', type=str, help='Operation to evaluate', required=True, choices=['addition', 'subtraction', 'multiplication', 'division'])
-arguments.add_argument('-type', type=str, help='Type of prompt', required=True, choices=['scratch', 'basic', 'text', 'code', 'codeplustext'])
+arguments.add_argument('-type', type=str, help='Type of prompt', required=True, choices=['scratch', 'basic', 'text', 'code', 'codeplustext', 'similarequation', 'similarequationpalm'])
 
 args = arguments.parse_args()
 operation = args.operation
@@ -28,8 +28,8 @@ if 'scratch' in args.type:
             results.append(row)
 
 else:
-    with open('model/answers_{}_{}_1shot.csv'.format(args.type, operation)) as f:
-        reader = csv.reader(f)
+    with open('model/answers_{}_{}.csv'.format(args.type, operation)) as f:
+        reader = csv.reader(f, delimiter='#')
         for row in reader:
             results.append(row)
 
@@ -63,6 +63,10 @@ for i in range(len(answer_key)):
             incorrect += 1
             print("Incorrect", answer_key[i][1].split('.')[0], results[i][-1])
         total += 1
+        print("Total: {}".format(total))
+        print("Correct: {}".format(correct))
+        print("Incorrect: {}".format(incorrect))
+        print("Accuracy: {}".format(correct / total))
     except:
         print('Error')
         print(i)

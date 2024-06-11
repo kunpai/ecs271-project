@@ -301,3 +301,4 @@ Then, we ask the model to generate its own `<scratch>` `<\scratch>`, and use tha
 - Correct: 2876
 - Incorrect: 1456
 - Total: 4332
+- Accuracy: 0.6647286821705426

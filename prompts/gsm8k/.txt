@@ -1,0 +1,55 @@
+# Base add
+Correct: 177
+Incorrect: 222
+Total: 399
+
+Accuracy: 0.444
+
+# Base subtract
+Correct: 326
+Incorrect: 74
+Total: 400
+
+Accuracy: 0.815
+
+# total add and subtract
+Correct: 503
+Incorrect: 296
+Total: 799
+
+Accuracy: 0.630
+
+# top 10 subtract
+Correct: 320
+Incorrect: 78
+Total: 398
+
+Accuracy: 0.804
+
+# top 5 subtract
+Correct: 320
+Incorrect: 78
+Total: 398
+
+Accuracy: 0.804
+
+# top 5 add
+Correct: 177
+Incorrect: 222
+Total: 399
+
+Accuracy: 0.444
+
+# top 10 add
+Correct: 177
+Incorrect: 222
+Total: 399
+
+Accuracy: 0.444
+
+# total top 5 add and subtract
+Correct: 497
+Incorrect: 300
+Total: 797
+
+Accuracy: 0.623
